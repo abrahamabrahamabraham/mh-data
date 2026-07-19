@@ -721,13 +721,6 @@
     "city": "Helsinki"
   },
   {
-    "id": "7587",
-    "name": "Matkahuolto ulkoautomaatti, Tapanilan Urheilukeskus",
-    "address": "Erätie 3",
-    "zip": "00730",
-    "city": "Helsinki"
-  },
-  {
     "id": "7282",
     "name": "Matkahuolto ulkoautomaatti, S-market Malmi",
     "address": "Kirkonkyläntie 34",
@@ -809,6 +802,13 @@
     "name": "Matkahuolto ulkoautomaatti, Erkki Melartinin tie 1",
     "address": "Erkki Melartinin tie 1",
     "zip": "00720",
+    "city": "Helsinki"
+  },
+  {
+    "id": "7587",
+    "name": "Matkahuolto ulkoautomaatti, Tapanilan Urheilukeskus",
+    "address": "Erätie 3",
+    "zip": "00730",
     "city": "Helsinki"
   },
   {
@@ -1274,6 +1274,13 @@
     "city": "Vantaa"
   },
   {
+    "id": "6914",
+    "name": "Matkahuolto ulkoautomaatti, Ohdaketie 1",
+    "address": "Ohdaketie 1",
+    "zip": "01300",
+    "city": "Vantaa"
+  },
+  {
     "id": "6760",
     "name": "Matkahuolto pakettiautomaatti, K-Market Kielotie",
     "address": "Kielotie 29",
@@ -1299,13 +1306,6 @@
     "name": "Matkahuolto pakettiautomaatti, Alepa Hiekkaharju",
     "address": "Leinikkitie 22",
     "zip": "01350",
-    "city": "Vantaa"
-  },
-  {
-    "id": "6914",
-    "name": "Matkahuolto ulkoautomaatti, Ohdaketie 1",
-    "address": "Ohdaketie 1",
-    "zip": "01300",
     "city": "Vantaa"
   },
   {
@@ -1491,6 +1491,13 @@
     "city": "Vantaa"
   },
   {
+    "id": "7585",
+    "name": "Matkahuolto pakettiautomaatti, Al-Fateh Market",
+    "address": "Puustellintie 4",
+    "zip": "00410",
+    "city": "Helsinki"
+  },
+  {
     "id": "9899",
     "name": "Matkahuolto pakettipiste, Al-Fateh Market",
     "address": "Puustellintie 4",
@@ -1600,13 +1607,6 @@
     "name": "Matkahuolto pakettipiste, K-Supermarket Martsari",
     "address": "Laajavuorenkuja 2",
     "zip": "01620",
-    "city": "Vantaa"
-  },
-  {
-    "id": "9504",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Pähkinärinne",
-    "address": "Lammaslammentie 9",
-    "zip": "01710",
     "city": "Vantaa"
   },
   {
@@ -1792,13 +1792,6 @@
     "city": "Nurmijärvi"
   },
   {
-    "id": "9526",
-    "name": "Matkahuolto pakettipiste, K-Market Karppala",
-    "address": "Ihantolantie 12",
-    "zip": "01900",
-    "city": "Nurmijärvi"
-  },
-  {
     "id": "6863",
     "name": "Matkahuolto pakettiautomaatti, Lidl Nurmijärvi",
     "address": "Raalantie 2",
@@ -1820,15 +1813,22 @@
     "city": "Espoo"
   },
   {
-    "id": "6828",
-    "name": "Matkahuolto pakettiautomaatti, K-Supermarket Lähde",
+    "id": "8992",
+    "name": "Matkahuolto pakettipiste, K-Supermarket Niipperi",
+    "address": "Juvankartanontie 32",
+    "zip": "02920",
+    "city": "Espoo"
+  },
+  {
+    "id": "9152",
+    "name": "Matkahuolto pakettipiste, K-Supermarket Lähde",
     "address": "Kiljavantie 5",
     "zip": "05200",
     "city": "Rajamäki"
   },
   {
-    "id": "9152",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Lähde",
+    "id": "6828",
+    "name": "Matkahuolto pakettiautomaatti, K-Supermarket Lähde",
     "address": "Kiljavantie 5",
     "zip": "05200",
     "city": "Rajamäki"
@@ -1895,6 +1895,13 @@
     "address": "Lahelantie 280",
     "zip": "04330",
     "city": "Lahela"
+  },
+  {
+    "id": "7285",
+    "name": "Matkahuolto ulkoautomaatti, S-market Tuusula",
+    "address": "Hyrylänkatu 6",
+    "zip": "04300",
+    "city": "Tuusula"
   },
   {
     "id": "7064",
@@ -2492,9 +2499,9 @@
     "city": "Espoo"
   },
   {
-    "id": "7251",
-    "name": "Matkahuolto pakettiautomaatti, Sale Grani",
-    "address": "Asematie 1",
+    "id": "7593",
+    "name": "Matkahuolto ulkoautomaatti, Kauppakeskus Grani",
+    "address": "Kauniaistentie 7",
     "zip": "02700",
     "city": "Kauniainen"
   },
@@ -2506,9 +2513,9 @@
     "city": "Kauniainen"
   },
   {
-    "id": "7593",
-    "name": "Matkahuolto ulkoautomaatti, Kauppakeskus Grani",
-    "address": "Kauniaistentie 7",
+    "id": "7251",
+    "name": "Matkahuolto pakettiautomaatti, Sale Grani",
+    "address": "Asematie 1",
     "zip": "02700",
     "city": "Kauniainen"
   },
@@ -2943,13 +2950,6 @@
     "id": "9486",
     "name": "Matkahuolto pakettipiste, K-Supermarket Hyrrä",
     "address": "Autoasemankatu 1",
-    "zip": "04300",
-    "city": "Tuusula"
-  },
-  {
-    "id": "7285",
-    "name": "Matkahuolto ulkoautomaatti, S-market Tuusula",
-    "address": "Hyrylänkatu 6",
     "zip": "04300",
     "city": "Tuusula"
   },
@@ -5166,10 +5166,10 @@
     "city": "Mäntyharju"
   },
   {
-    "id": "6721",
-    "name": "Matkahuolto pakettiautomaatti, K-Supermarket Nummenpakka",
-    "address": "Hakakatu 16",
-    "zip": "20540",
+    "id": "6016",
+    "name": "Matkahuolto pakettiautomaatti, Prisma Tampereentie",
+    "address": "Vanha Tampereentie 108",
+    "zip": "20300",
     "city": "Turku"
   },
   {
@@ -5390,10 +5390,10 @@
     "city": "Turku"
   },
   {
-    "id": "6016",
-    "name": "Matkahuolto pakettiautomaatti, Prisma Tampereentie",
-    "address": "Vanha Tampereentie 108",
-    "zip": "20300",
+    "id": "6721",
+    "name": "Matkahuolto pakettiautomaatti, K-Supermarket Nummenpakka",
+    "address": "Hakakatu 16",
+    "zip": "20540",
     "city": "Turku"
   },
   {
@@ -5597,6 +5597,13 @@
     "name": "Matkahuolto pakettipiste, K-Market Maisteri",
     "address": "Kirkkotie 15",
     "zip": "20540",
+    "city": "Turku"
+  },
+  {
+    "id": "6726",
+    "name": "Matkahuolto pakettiautomaatti, K-Citymarket Skanssi",
+    "address": "Itäkaari 20",
+    "zip": "20730",
     "city": "Turku"
   },
   {
@@ -5885,13 +5892,6 @@
     "address": "Kairiskulmantie 1",
     "zip": "20760",
     "city": "Piispanristi"
-  },
-  {
-    "id": "6726",
-    "name": "Matkahuolto pakettiautomaatti, K-Citymarket Skanssi",
-    "address": "Itäkaari 20",
-    "zip": "20730",
-    "city": "Turku"
   },
   {
     "id": "7325",
@@ -7189,13 +7189,6 @@
     "city": "Tampere"
   },
   {
-    "id": "9047",
-    "name": "Matkahuolto pakettipiste, K-Market Lamminpää",
-    "address": "Ylöjärventie 18",
-    "zip": "33420",
-    "city": "Tampere"
-  },
-  {
     "id": "6940",
     "name": "Matkahuolto ulkoautomaatti, Suoniemenkatu 2",
     "address": "Suoniemenkatu 2",
@@ -7284,6 +7277,13 @@
     "name": "Matkahuolto pakettipiste, K-Market Winterinmutka",
     "address": "Pispalan Valtatie 126-128",
     "zip": "33270",
+    "city": "Tampere"
+  },
+  {
+    "id": "8888",
+    "name": "Matkahuolto pakettipiste, K-Market Kalkku",
+    "address": "Pitkäniemenkatu 12",
+    "zip": "33330",
     "city": "Tampere"
   },
   {
@@ -7627,13 +7627,6 @@
     "name": "Matkahuolto ulkoautomaatti, Haapalinnantori 2",
     "address": "Haapalinnantori 2",
     "zip": "33270",
-    "city": "Tampere"
-  },
-  {
-    "id": "8888",
-    "name": "Matkahuolto pakettipiste, K-Market Kalkku",
-    "address": "Pitkäniemenkatu 12",
-    "zip": "33330",
     "city": "Tampere"
   },
   {
@@ -8393,6 +8386,13 @@
     "city": "Pälkäne"
   },
   {
+    "id": "7435",
+    "name": "Matkahuolto ulkoautomaatti, Lidl Valkeakoski",
+    "address": "Asemantie 1",
+    "zip": "37630",
+    "city": "Valkeakoski"
+  },
+  {
     "id": "9324",
     "name": "Matkahuolto pakettipiste, K-Market Vanhakylä",
     "address": "Lempääläntie 286",
@@ -8407,17 +8407,17 @@
     "city": "Valkeakoski"
   },
   {
-    "id": "9266",
-    "name": "Matkahuolto pakettipiste, K-Citymarket Valkeakoski",
+    "id": "7605",
+    "name": "Matkahuolto pakettiautomaatti, K-Citymarket Valkeakoski",
     "address": "Hakalantie 1",
     "zip": "37600",
     "city": "Valkeakoski"
   },
   {
-    "id": "7435",
-    "name": "Matkahuolto ulkoautomaatti, Lidl Valkeakoski",
-    "address": "Asemantie 1",
-    "zip": "37630",
+    "id": "9266",
+    "name": "Matkahuolto pakettipiste, K-Citymarket Valkeakoski",
+    "address": "Hakalantie 1",
+    "zip": "37600",
     "city": "Valkeakoski"
   },
   {
@@ -8732,13 +8732,6 @@
     "id": "9016",
     "name": "Matkahuolto pakettipiste, K-Market Ylioppilaankatu",
     "address": "Ylioppilaankatu 6-8",
-    "zip": "33720",
-    "city": "Tampere"
-  },
-  {
-    "id": "9314",
-    "name": "Matkahuolto pakettipiste, K-Market Teekkarinkatu",
-    "address": "Teekkarinkatu 17",
     "zip": "33720",
     "city": "Tampere"
   },
