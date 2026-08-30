@@ -602,16 +602,16 @@
     "city": "Helsinki"
   },
   {
-    "id": "6005",
-    "name": "Matkahuolto pakettiautomaatti, Kauppakeskus Arabia P-taso",
-    "address": "Hämeentie 109-111",
-    "zip": "00560",
+    "id": "9953",
+    "name": "Matkahuolto pakettipiste, K-Market Nihti",
+    "address": "Nihdinranta 2",
+    "zip": "00540",
     "city": "Helsinki"
   },
   {
-    "id": "9555",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Arabia",
-    "address": "Hämeentie 111",
+    "id": "6005",
+    "name": "Matkahuolto pakettiautomaatti, Kauppakeskus Arabia P-taso",
+    "address": "Hämeentie 109-111",
     "zip": "00560",
     "city": "Helsinki"
   },
@@ -676,6 +676,13 @@
     "name": "Matkahuolto pakettipiste, K-Market Amerinkulma",
     "address": "Mäkelänkatu 87",
     "zip": "00610",
+    "city": "Helsinki"
+  },
+  {
+    "id": "9555",
+    "name": "Matkahuolto pakettipiste, K-Supermarket Arabia",
+    "address": "Hämeentie 111",
+    "zip": "00560",
     "city": "Helsinki"
   },
   {
@@ -1288,6 +1295,20 @@
     "city": "Vantaa"
   },
   {
+    "id": "7611",
+    "name": "Matkahuolto pakettiautomaatti, K-Market Simonkallio",
+    "address": "Simonkalliontie 2",
+    "zip": "01300",
+    "city": "Vantaa"
+  },
+  {
+    "id": "9952",
+    "name": "Matkahuolto pakettipiste, K-Market Simonkallio",
+    "address": "Simonkalliontie 2",
+    "zip": "01300",
+    "city": "Vantaa"
+  },
+  {
     "id": "4593",
     "name": "Matkahuolto pakettipiste, R-kioski Simonseutu",
     "address": "Leinikkitie 20",
@@ -1417,20 +1438,6 @@
     "id": "6258",
     "name": "Matkahuolto pakettiautomaatti, K-Supermarket Korso",
     "address": "Minkkikuja 4",
-    "zip": "01450",
-    "city": "Vantaa"
-  },
-  {
-    "id": "9362",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Korso",
-    "address": "Minkkikuja 4",
-    "zip": "01450",
-    "city": "Vantaa"
-  },
-  {
-    "id": "4269",
-    "name": "Matkahuolto pakettipiste, R-kioski Korso Otavantie 24",
-    "address": "Otavantie 24",
     "zip": "01450",
     "city": "Vantaa"
   },
@@ -2945,6 +2952,13 @@
     "address": "Viulukonsertonkatu 1",
     "zip": "04420",
     "city": "Järvenpää"
+  },
+  {
+    "id": "4269",
+    "name": "Matkahuolto pakettipiste, R-kioski Korso Otavantie 24",
+    "address": "Otavantie 24",
+    "zip": "01450",
+    "city": "Vantaa"
   },
   {
     "id": "9053",
