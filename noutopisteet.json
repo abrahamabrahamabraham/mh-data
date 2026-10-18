@@ -366,7 +366,7 @@
   {
     "id": "7480",
     "name": "Matkahuolto ulkoautomaatti, Liikekeskus Mäkelänkatu 91",
-    "address": "Mäkelänkatu 91",
+    "address": "Mäkelänkatu 87-91",
     "zip": "00610",
     "city": "Helsinki"
   },
@@ -2772,13 +2772,6 @@
     "city": "Pusula"
   },
   {
-    "id": "6584",
-    "name": "Matkahuolto pakettiautomaatti, Sale Läyliäinen",
-    "address": "Kylänraitti 2",
-    "zip": "12600",
-    "city": "Läyliäinen"
-  },
-  {
     "id": "7628",
     "name": "Matkahuolto ulkoautomaatti, Sale Läyliäinen",
     "address": "Kylänraitti 2",
@@ -4613,6 +4606,13 @@
     "city": "Lahti"
   },
   {
+    "id": "7640",
+    "name": "Matkahuolto ulkoautomaatti, Lidl Kivimaa",
+    "address": "Kivistönkatu 1",
+    "zip": "15210",
+    "city": "LAHTI"
+  },
+  {
     "id": "6516",
     "name": "Matkahuolto pakettiautomaatti, S-market Tonttila",
     "address": "Heinolan Vanhatie 25",
@@ -4655,13 +4655,6 @@
     "city": "Lahti"
   },
   {
-    "id": "7425",
-    "name": "Matkahuolto pakettiautomaatti, Kauppakeskus Karisma 2. krs",
-    "address": "Kauppiaankatu 2",
-    "zip": "15160",
-    "city": "Lahti"
-  },
-  {
     "id": "7519",
     "name": "Matkahuolto ulkoautomaatti, S-market Mukkula",
     "address": "Ritaniemenkatu 7-9",
@@ -4676,10 +4669,24 @@
     "city": "Lahti"
   },
   {
+    "id": "7425",
+    "name": "Matkahuolto pakettiautomaatti, Kauppakeskus Karisma 2. krs",
+    "address": "Kauppiaankatu 2",
+    "zip": "15160",
+    "city": "Lahti"
+  },
+  {
     "id": "7518",
     "name": "Lahti ulkoautomaatti, S-market Ahtiala",
     "address": "Alasenkatu 3",
     "zip": "15300",
+    "city": "Lahti"
+  },
+  {
+    "id": "8675",
+    "name": "Matkahuolto pakettipiste, K-Market Sipurantie",
+    "address": "Päivänsäteenkatu 2",
+    "zip": "15320",
     "city": "Lahti"
   },
   {
@@ -4688,13 +4695,6 @@
     "address": "Tervamäentie 2",
     "zip": "15270",
     "city": "Kukkila"
-  },
-  {
-    "id": "8675",
-    "name": "Matkahuolto pakettipiste, K-Market Sipurantie",
-    "address": "Päivänsäteenkatu 2",
-    "zip": "15320",
-    "city": "Lahti"
   },
   {
     "id": "7561",
@@ -4982,6 +4982,13 @@
     "address": "Teollisuustie 1",
     "zip": "35300",
     "city": "Orivesi"
+  },
+  {
+    "id": "7639",
+    "name": "Matkahuolto ulkoautomaatti, Lidl Heinola",
+    "address": "Siltakatu 21-23",
+    "zip": "18100",
+    "city": "Heinola"
   },
   {
     "id": "7513",
@@ -7441,6 +7448,13 @@
     "city": "Sastamala"
   },
   {
+    "id": "8684",
+    "name": "Matkahuolto pakettipiste, K-Market Äetsä",
+    "address": "Päätie 11",
+    "zip": "32740",
+    "city": "Sastamala"
+  },
+  {
     "id": "9686",
     "name": "Matkahuolto pakettipiste, ABC Kiikoinen",
     "address": "Taitajantie 3",
@@ -7623,13 +7637,6 @@
     "city": "Tampere"
   },
   {
-    "id": "8838",
-    "name": "Matkahuolto pakettipiste, K-Market Tahmela",
-    "address": "Tahmelan Viertotie 2",
-    "zip": "33240",
-    "city": "Tampere"
-  },
-  {
     "id": "8881",
     "name": "Matkahuolto pakettipiste, K-Market Härmälä",
     "address": "Nuolialantie 40",
@@ -7691,6 +7698,13 @@
     "address": "Männistönkuja 1",
     "zip": "33410",
     "city": "Tampere"
+  },
+  {
+    "id": "7317",
+    "name": "Matkahuolto pakettiautomaatti, Prisma Pirkkala",
+    "address": "Kenkätie 4",
+    "zip": "33950",
+    "city": "Pirkkala"
   },
   {
     "id": "8834",
@@ -7866,13 +7880,6 @@
     "address": "Patamäenkatu 18",
     "zip": "33900",
     "city": "Tampere"
-  },
-  {
-    "id": "7317",
-    "name": "Matkahuolto pakettiautomaatti, Prisma Pirkkala",
-    "address": "Kenkätie 4",
-    "zip": "33950",
-    "city": "Pirkkala"
   },
   {
     "id": "8967",
@@ -9576,16 +9583,16 @@
     "city": "Karhula"
   },
   {
-    "id": "9283",
-    "name": "Matkahuolto pakettipiste, K-Market Rauhala",
-    "address": "Mällinkatu 1",
+    "id": "7633",
+    "name": "Matkahuolto ulkoautomaatti Lidl Karhula",
+    "address": "Karhukuja 4",
     "zip": "48600",
     "city": "Kotka"
   },
   {
-    "id": "6261",
-    "name": "Matkahuolto pakettiautomaatti, K-Citymarket Kotka",
-    "address": "Jumalniementie 8",
+    "id": "9283",
+    "name": "Matkahuolto pakettipiste, K-Market Rauhala",
+    "address": "Mällinkatu 1",
     "zip": "48600",
     "city": "Kotka"
   },
@@ -10752,6 +10759,13 @@
     "city": "Seinäjoki"
   },
   {
+    "id": "7651",
+    "name": "Matkahuolto ulkoautomaatti, S-market Itikanristeys",
+    "address": "Verkatehtaankatu 13",
+    "zip": "60100",
+    "city": "Seinäjoki"
+  },
+  {
     "id": "6579",
     "name": "Matkahuolto pakettiautomaatti, Minimani Seinäjoki",
     "address": "Tehtaantie 5",
@@ -10864,6 +10878,13 @@
     "city": "Seinäjoki"
   },
   {
+    "id": "7653",
+    "name": "Matkahuolto ulkoautomaatti, S-market Simuna",
+    "address": "Bullerintie 2",
+    "zip": "60200",
+    "city": "Seinäjoki"
+  },
+  {
     "id": "9488",
     "name": "Matkahuolto pakettipiste, K-Market Kärki",
     "address": "Toritaival 2",
@@ -10885,13 +10906,6 @@
     "city": "Ilmajoki"
   },
   {
-    "id": "9754",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Ilmajoki",
-    "address": "Hansatie 3",
-    "zip": "60800",
-    "city": "Ilmajoki"
-  },
-  {
     "id": "4154",
     "name": "Matkahuolto pakettipiste, R-kioski Ilmajoki",
     "address": "Kauppatie 16",
@@ -10902,6 +10916,13 @@
     "id": "7550",
     "name": "Matkahuolto ulkoautomaatti, S-market Ilmajoki",
     "address": "Kauppatie 20",
+    "zip": "60800",
+    "city": "Ilmajoki"
+  },
+  {
+    "id": "9754",
+    "name": "Matkahuolto pakettipiste, K-Supermarket Ilmajoki",
+    "address": "Hansatie 3",
     "zip": "60800",
     "city": "Ilmajoki"
   },
@@ -11125,13 +11146,6 @@
   {
     "id": "6742",
     "name": "Matkahuolto pakettiautomaatti, K-Supermarket Huutoniemi",
-    "address": "Kuninkaantie 69",
-    "zip": "65320",
-    "city": "Vaasa"
-  },
-  {
-    "id": "9402",
-    "name": "Matkahuolto pakettipiste, K-Supermarket Huutoniemi",
     "address": "Kuninkaantie 69",
     "zip": "65320",
     "city": "Vaasa"
@@ -11513,6 +11527,13 @@
     "address": "Markkinakuja 2",
     "zip": "65610",
     "city": "Mustasaari"
+  },
+  {
+    "id": "9402",
+    "name": "Matkahuolto pakettipiste, K-Supermarket Huutoniemi",
+    "address": "Kuninkaantie 69",
+    "zip": "65320",
+    "city": "Vaasa"
   },
   {
     "id": "8878",
@@ -13364,7 +13385,7 @@
   },
   {
     "id": "7642",
-    "name": "Matkahuolto ulkoautomaatti, Sale Höyhtyä",
+    "name": "Matkahuolto ulkoautomaatti 2, Sale Höyhtyä",
     "address": "Latokartanontie  1",
     "zip": "90150",
     "city": "Oulu"
@@ -13517,13 +13538,6 @@
     "city": "Oulu"
   },
   {
-    "id": "7363",
-    "name": "Matkahuolto ulkoautomaatti, Sale Kaijonharju",
-    "address": "Kalevalantie 3",
-    "zip": "90570",
-    "city": "Oulu"
-  },
-  {
     "id": "8942",
     "name": "Matkahuolto pakettipiste, K-Supermarket Kaijonharju",
     "address": "Sammonkatu 16",
@@ -13616,6 +13630,13 @@
   },
   {
     "id": "6357",
+    "name": "Matkahuolto ulkoautomaatti, S-market Kello",
+    "address": "Kissaojankuja 4",
+    "zip": "90820",
+    "city": "Kello"
+  },
+  {
+    "id": "7235",
     "name": "Matkahuolto ulkoautomaatti, S-market Kello",
     "address": "Kissaojankuja 4",
     "zip": "90820",
@@ -13781,13 +13802,6 @@
     "address": "Revontie 47",
     "zip": "90830",
     "city": "Haukipudas"
-  },
-  {
-    "id": "7235",
-    "name": "Matkahuolto ulkoautomaatti, S-market Kello",
-    "address": "Kissaojankuja 4",
-    "zip": "90820",
-    "city": "Kello"
   },
   {
     "id": "9305",
